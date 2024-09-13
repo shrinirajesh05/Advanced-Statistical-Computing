@@ -1,4 +1,4 @@
-# Kidney Disease Data Analysis and Classification Project
+# Exploring Kidney Disease through Computer Simulations: Analyzing Missing Data, Associations, and Classification Techniques
 
 Project Overview:
 
